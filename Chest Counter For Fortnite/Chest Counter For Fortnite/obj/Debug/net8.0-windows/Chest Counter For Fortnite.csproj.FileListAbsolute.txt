@@ -1,0 +1,16 @@
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\bin\Debug\net8.0-windows\Chest Counter For Fortnite.exe
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\bin\Debug\net8.0-windows\Chest Counter For Fortnite.deps.json
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\bin\Debug\net8.0-windows\Chest Counter For Fortnite.runtimeconfig.json
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\bin\Debug\net8.0-windows\Chest Counter For Fortnite.dll
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\bin\Debug\net8.0-windows\Chest Counter For Fortnite.pdb
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\Chest Counter For Fortnite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\Chest Counter For Fortnite.AssemblyInfoInputs.cache
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\Chest Counter For Fortnite.AssemblyInfo.cs
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\Chest Counter For Fortnite.csproj.CoreCompileInputs.cache
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\Chest Counter For Fortnite.dll
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\refint\Chest Counter For Fortnite.dll
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\Chest Counter For Fortnite.pdb
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\Chest Counter For Fortnite.genruntimeconfig.cache
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\ref\Chest Counter For Fortnite.dll
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\Chest_Counter_For_Fortnite.Form1.resources
+C:\Users\cruzp\source\repos\Chest Counter For Fortnite\Chest Counter For Fortnite\obj\Debug\net8.0-windows\Chest Counter For Fortnite.csproj.GenerateResource.cache
